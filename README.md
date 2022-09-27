@@ -35,4 +35,4 @@ Several operations are perfomed : -
 * Four layers of fully connected layers along with relu activation function inorder to add non-linearity
 * Dropout layers and earlystopping are also added to prevent overfitting
 * Finaly layers has 50 neurons for 50 categories and softmax activation function for multi classification
-* VGG19 model secured an accuracy of **70%**
+* ResNet101V2 model secured an accuracy of **70%**
